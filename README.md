@@ -68,6 +68,7 @@ Data-Science-Practicals/
 | 01 | Pandas, NumPy and One-Hot Encoding | Completed |
 | 02 | Descriptive Statistics and Data Analysis | Completed |
 | 03 | Statistical Analysis and Data Visualization | Completed |
+| 04 | Data Cleaning and Visualization | Completed |
 
 More practicals will be added as the coursework progresses.
 
