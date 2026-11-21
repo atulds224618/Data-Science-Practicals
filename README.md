@@ -60,19 +60,16 @@ Data-Science-Practicals/
 
 
 
-\## Practical Index
 
-
+## Practical Index
 
 | Practical | Topic | Status |
-
 |---|---|---|
+| 01 | Pandas, NumPy and One-Hot Encoding | Completed |
+| 02 | Descriptive Statistics and Data Analysis | Completed |
 
-| 01 | Pandas, NumPy and One-Hot Encoding | In Progress |
+More practicals will be added as the coursework progresses.
 
-
-
-\*More practicals will be added as the coursework progresses.\*
 
 
 
