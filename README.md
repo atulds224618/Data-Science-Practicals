@@ -71,6 +71,7 @@ Data-Science-Practicals/
 | 04 | Data Cleaning and Visualization | Completed |
 | 05 | Probability and Hypothesis Testing | Completed |
 | 06 | Statistical Hypothesis Testing | Completed |
+| 07 | Regression Analysis | Completed |
 
 More practicals will be added as the coursework progresses.
 
