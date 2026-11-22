@@ -74,6 +74,7 @@ Data-Science-Practicals/
 | 07 | Regression Analysis | Completed |
 | 08 | Decision Tree Classification | Completed |
 | 09 | K-Nearest Neighbors (KNN) Classification | Completed |
+| 10 | Wine Dataset Analysis and PCA | Completed |
 
 More practicals will be added as the coursework progresses.
 
