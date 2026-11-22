@@ -72,6 +72,7 @@ Data-Science-Practicals/
 | 05 | Probability and Hypothesis Testing | Completed |
 | 06 | Statistical Hypothesis Testing | Completed |
 | 07 | Regression Analysis | Completed |
+| 08 | Decision Tree Classification | Completed |
 
 More practicals will be added as the coursework progresses.
 
