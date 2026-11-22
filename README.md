@@ -76,6 +76,7 @@ Data-Science-Practicals/
 | 09 | K-Nearest Neighbors (KNN) Classification | Completed |
 | 10 | Wine Dataset Analysis and PCA | Completed |
 | 11 | Sunspot Data Analysis using Gamma Distribution and MCMC | Completed |
+| 12 | Metropolis Algorithm and Logistic Growth Model | Completed |
 
 More practicals will be added as the coursework progresses.
 
