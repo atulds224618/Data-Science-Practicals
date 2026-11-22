@@ -75,6 +75,7 @@ Data-Science-Practicals/
 | 08 | Decision Tree Classification | Completed |
 | 09 | K-Nearest Neighbors (KNN) Classification | Completed |
 | 10 | Wine Dataset Analysis and PCA | Completed |
+| 11 | Sunspot Data Analysis using Gamma Distribution and MCMC | Completed |
 
 More practicals will be added as the coursework progresses.
 
